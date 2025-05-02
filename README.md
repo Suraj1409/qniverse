@@ -4,4 +4,4 @@
 ```bash
 git clone https://github.com/Suraj1409/qniverse.git
 cd qniverse
-bash install.sh
+bash setup.sh
