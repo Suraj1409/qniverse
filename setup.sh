@@ -8,10 +8,7 @@ source .qniverse-venv/bin/activate
 
 echo "📦 Installing Python dependencies..."
 pip install --upgrade pip
-pip install qiskit cirq cudaq || {
-    echo "❌ Failed to install Python dependencies."
-    exit 1
-}
+pip install -r requirements.txt
 
 echo "✅ Python environment ready."
 
