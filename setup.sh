@@ -12,4 +12,4 @@ pip install -r requirements.txt
 chmod +x bin/qniverse.js
 sudo ln -sf "$(pwd)/bin/qniverse.js" /usr/local/bin/qniverse
 
-echo "Installation Completed! You can now run : qniverse <code.qasm> -p qiskit -b qasm_simulator"
+echo "Installation Completed! You can now run : qniverse <example.qasm> -b qasm_simulator"
