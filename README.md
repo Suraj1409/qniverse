@@ -3,10 +3,10 @@
 ## Prerequisites
 
 Make sure the following are installed before using `qniverse`:
+python => 3.10
 ```bash
 sudo apt update
 sudo apt install -y git nodejs npm python3 python3-pip python3-venv
-
 ```
 ## Qniverse Installation
 
