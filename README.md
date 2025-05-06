@@ -19,4 +19,8 @@ git clone https://github.com/Suraj1409/qniverse.git
 cd qniverse
 bash setup.sh
 
+<<<<<<< HEAD
 ```
+=======
+```
+>>>>>>> 01e1a3a4165c5e5986adb1f02c6bd16998fc070e
